@@ -1,6 +1,6 @@
 package Prelim;
 import java.util.Scanner;
-public class Find_the_greatest_number {
+public class find_the_greatest_number {
     
     public static void main(String[] args){
     Scanner scan = new Scanner(System.in);
